@@ -1,11 +1,11 @@
 # Trabalho de Fundamentos de Desenvolvimento de Software
 Por Rayanne Ester
 
-## 🎯 Objetivos
+## Objetivos
 - Desenvolver uma página simples utilizando html, css e Javascript
 - Criar um repositório no github e disponibilizar a página web.
 
-## 📄 Requisitos
+## Requisitos
 - Um título principal com meu nome.
 - Uma breve autobiografia.
 - Uma lista com meus hobbies favoritos.
